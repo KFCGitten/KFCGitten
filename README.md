@@ -52,7 +52,7 @@ An automated data engine correlates real-time weather and mocked traffic API dat
 
 **Tools & Platforms:**
 - Git/GitHub (Version Control & CI/CD)
-- SQL & SQLite (MySQL WorkBench, DBeaver-Databases)
+- SQL & SQLite (MySQL WorkBench, DBeaver)
 - Excel (Expert)
 
 ## 💼 Professional Experience
