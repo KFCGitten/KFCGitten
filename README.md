@@ -4,7 +4,7 @@ I'm **Patrik Edlundh** (KFCGitten), an **AI Developer & Data Analyst** with a st
 
 ## 🚀 What I Do
 
-I specialize in developing full-stack applications with a focus on **AI/ML integration**, **data analysis**, and **user-centered design**. With 6+ years of logistics optimization experience, I'll combine domain expertise with cutting-edge machine learning techniques to solve real-world problems. Still in the learning phase.
+I specialize in developing full-stack applications with a focus on **AI/ML integration**, **data analysis**, and **user-centered design**. With 6+ years of logistics optimization experience, I'll combine domain expertise with machine learning techniques to solve real-world problems. Still in the learning phase.
 
 ## 🎓 Background
 
@@ -26,7 +26,7 @@ A personal plant care assistant with CLI and web interface. Features automatic w
 - **Showcase:** Demonstrates advanced full-stack design, robust CLI & Web interface, and practical AI-integration beyond the basics.
 
 ### 📊 [City Vibe Analyzer](https://github.com/KFCGitten/city-analysis)
-A data pipeline correlating weather and traffic data using public APIs. Built with Pydantic for validation, SQLite for storage, and GitHub Actions for CI/CD.
+An automated data engine correlates real-time weather and traffic API data to analyze how environmental factors impact urban dynamics. By leveraging a robust architecture with Pydantic and GitHub Actions, it transforms unstructured data into a reliable database for predictive analysis.
 - **Tech Stack:** Python, Data Analysis, API Integration, GitHub Actions
 - **Impact:** Transforms unstructured API data into actionable insights
 
@@ -49,8 +49,7 @@ A data pipeline correlating weather and traffic data using public APIs. Built wi
 
 **Tools & Platforms:**
 - Git/GitHub (Version Control & CI/CD)
-- SQL & SQLite (Databases)
-- Pydantic (Data Validation)
+- SQL & SQLite (MySQL WorkBench, DBeaver-Databases)
 - Excel (Expert)
 
 ## 💼 Professional Experience
@@ -71,13 +70,6 @@ A data pipeline correlating weather and traffic data using public APIs. Built wi
 🤝 **Leadership & Collaboration** — 8+ years managing teams and optimizing workflows  
 💡 **Process Optimization** — Transforming complex logistics into efficient systems  
 
-## 🏅 Certifications & Achievements
-
-- **AI Certification:** Introduction to Artificial Intelligence – Founderz (Sweden)
-- **Super User:** Autostore (automated storage solutions)
-- **Forklift Certifications:** A1–A4, D1
-- **Safety Training:** Work Environment (SAM, BAM), Evacuation Leader
-- **Driver's License:** Category B
 
 ## 📫 Let's Connect
 
