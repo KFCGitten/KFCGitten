@@ -37,9 +37,9 @@ An automated data engine correlates real-time weather and mocked traffic API dat
 - **Gemini CLI** Coding partner.
 
 **Languages:**
-- **Python** (Primary) — Current focus for ML/AI
-- **HTML/CSS, JavaScript** — Web interface design
-- **R, Matlab, SQL** — Additional experience
+- **Python** (Primary) - Current focus for ML/AI
+- **HTML/CSS, JavaScript** - Web interface design
+- **R, Matlab, SQL** - Additional experience
 
 **Expertise:**
 - 🤖 AI/ML Integration & RAG Systems
@@ -66,12 +66,12 @@ An automated data engine correlates real-time weather and mocked traffic API dat
 
 ## 🌟 Key Strengths
 
-✨ **Data-Driven Problem Solving** — Analytical mindset with strong mathematical foundation  
-📊 **Predictive Analytics** — Experience in forecasting and time series analysis  
-🤖 **AI/ML Integration** — Applying deep learning to real-world challenges  
-🔄 **Multi-Platform Development** — CLI, Web, and Mobile-responsive solutions  
-🤝 **Leadership & Collaboration** — 8+ years managing teams and optimizing workflows  
-💡 **Process Optimization** — Transforming complex logistics into efficient systems  
+✨ **Data-Driven Problem Solving** - Analytical mindset with strong mathematical foundation  
+📊 **Predictive Analytics** - Experience in forecasting and time series analysis  
+🤖 **AI/ML Integration** - Applying deep learning to real-world challenges  
+🔄 **Multi-Platform Development** - CLI, Web, and Mobile-responsive solutions  
+🤝 **Leadership & Collaboration** - 8+ years managing teams and optimizing workflows  
+💡 **Process Optimization** - Transforming complex logistics into efficient systems  
 
 
 ## 📫 Let's Connect
