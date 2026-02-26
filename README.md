@@ -17,7 +17,7 @@ I specialize in developing full-stack applications with a focus on **AI/ML integ
 
 ### 🤖 [ProjectBrAIn](https://github.com/KFCGitten/ProjectBrAIn)
 A localized RAG-driven development engine that indexes, analyzes, and synthesizes personal codebases into actionable AI insights. Built to serve as long-term memory for autonomous agents.
-- **Tech Stack:** Python, RAG, AI/ML
+- **Tech Stack:** Python, RAG, AI/ML, ChromaDB
 - **Impact:** Demonstrates advanced AI integration and autonomous system design
 
 ### 🌱 [PlantPal](https://github.com/KFCGitten/PlantPal)
@@ -25,13 +25,16 @@ A personal plant care assistant with CLI and web interface. Features automatic w
 - **Tech Stack:** Python, HTML, Flask, Ollama (local AI), Discord API, `.ics` calendar export, Docker  
 - **Showcase:** Demonstrates advanced full-stack design, robust CLI & Web interface, and practical AI-integration beyond the basics.
 
-### 📊 [City Vibe Analyzer](https://github.com/KFCGitten/city-analysis)
-An automated data engine correlates real-time weather and traffic API data to analyze how environmental factors impact urban dynamics. By leveraging a robust architecture with Pydantic and GitHub Actions, it transforms unstructured data into a reliable database for predictive analysis.
+### 📊 [City Vibe Analyzer](https://github.com/mahtabb90/city-analysis)
+An automated data engine correlates real-time weather and mocked traffic API data to analyze how environmental factors impact urban dynamics. By leveraging a robust architecture with Pydantic and GitHub Actions, it transforms unstructured data into a reliable database for predictive analysis.
 - **Tech Stack:** Python, Data Analysis, API Integration, GitHub Actions
 - **Impact:** Transforms unstructured API data into actionable insights
 
 
 ## 💻 Tech Stack
+
+**LLM**
+- **Gemini CLI** Coding partner.
 
 **Languages:**
 - **Python** (Primary) — Current focus for ML/AI
