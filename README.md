@@ -34,7 +34,7 @@ An automated data engine correlates real-time weather and mocked traffic API dat
 ## 💻 Tech Stack
 
 **LLM**
-- **Gemini CLI** Coding partner.
+- **Gemini CLI** - Coding partner.
 
 **Languages:**
 - **Python** (Primary) - Current focus for ML/AI
