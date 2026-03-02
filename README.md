@@ -27,6 +27,8 @@ A personal plant care assistant with CLI and web interface. Features automatic w
 
 ### 📊 [City Vibe Analyzer](https://github.com/mahtabb90/city-analysis)
 City Vibe Analysis is an urban intelligence engine that correlates weather and traffic patterns to predict a city's emotional pulse and atmosphere. By forecasting these 'vibes,' the system provides businesses and city planners with a competitive edge, allowing them to proactively adapt to human-centric trends like 'Friday feeling' or 'coziness' before they happen.
+- **Tech Stack:** Python, SQLite, API orchestration, Pydantic, GitHub Actions (CI/CD), Pytest
+- **Showcase:** Demonstrates the ability to transform raw environmental variables into actionable business intelligence.
 
 
 ## 💻 Tech Stack
