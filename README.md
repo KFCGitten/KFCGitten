@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub!
 
-I'm **Patrik Edlundh** (KFCGitten), an **AI Developer & Data Analyst** with a strong mathematical foundation and practical experience transforming complex data into actionable insights.
+I'm **Patrik Edlundh Silver** (KFCGitten), an **AI Developer & Data Analyst** with a strong mathematical foundation and practical experience transforming complex data into actionable insights.
 
 ## 🚀 What I Do
 
