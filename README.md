@@ -4,7 +4,7 @@ I'm **Patrik Edlundh** (KFCGitten), an **AI Developer & Data Analyst** with a st
 
 ## 🚀 What I Do
 
-I specialize in developing full-stack applications with a focus on **AI/ML integration**, **data analysis**, and **user-centered design**. With 6+ years of logistics optimization experience, I'll combine domain expertise with machine learning techniques to solve real-world problems. Still in the learning phase.
+I specialize in developing full-stack applications with a focus on **AI/ML integration**, **data analysis**, and **user-centered design**. With 6+ years of logistics optimization experience, I'll combine domain expertise with machine learning techniques to solve real-world problems. Still in the learning phase. You can always learn more!
 
 ## 🎓 Background
 
@@ -38,7 +38,7 @@ City Vibe Analysis is an urban intelligence engine that correlates weather and t
 
 **Languages:**
 - **Python** (Primary) - Current focus for ML/AI
-- **HTML/CSS, JavaScript** - Web interface design
+- **HTML/CSS, JavaScript, React** - Web interface design
 - **R, Matlab, SQL** - Additional experience
 
 **Expertise:**
@@ -48,31 +48,23 @@ City Vibe Analysis is an urban intelligence engine that correlates weather and t
 - 🔌 API Development & Integration
 - 📈 Predictive Analytics & Statistical Modeling
 - 🔧 CLI & Web Interface Design
-- 🚀 GitHub Actions & CI/CD
 
 **Tools & Platforms:**
+- VS Code
 - Git/GitHub (Version Control & CI/CD)
 - SQL & SQLite (MySQL WorkBench, DBeaver)
 - Excel (Expert)
 
-## 💼 Professional Experience
-
-**12+ Years in Logistics & Operations**
-- **Planning Manager** @ Dustin (2023–2024): Developed predictive forecasting models using time series analysis
-- **Team Manager** @ Dustin (2021–2023): Led operations, teams, process optimization, and system integration
-- **Supervisory Roles** @ Dustin (2016–2021): Managed warehouse, order handling, and logistics workflows
-
-*From operational optimization to AI development — combining domain expertise with technical innovation.*
 
 ## 🌟 Key Strengths
 
 ✨ **Data-Driven Problem Solving** - Analytical mindset with strong mathematical foundation  
 📊 **Predictive Analytics** - Experience in forecasting and time series analysis  
-🤖 **AI/ML Integration** - Applying deep learning to real-world challenges  
-🔄 **Multi-Platform Development** - CLI, Web, and Mobile-responsive solutions  
 🤝 **Leadership & Collaboration** - 8+ years managing teams and optimizing workflows  
 💡 **Process Optimization** - Transforming complex logistics into efficient systems  
 
+🤖 **AI/ML Integration** - Applying deep learning to real-world challenges  
+🔄 **Multi-Platform Development** - CLI, Web, and Mobile-responsive solutions  
 
 ## 📫 Let's Connect
 
